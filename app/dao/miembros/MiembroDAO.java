@@ -4,7 +4,6 @@ import dao.DatabaseExecutionContext;
 import io.ebean.Ebean;
 import io.ebean.EbeanServer;
 import io.ebean.Transaction;
-import model.marketplace.productos.Producto;
 import model.miembros.Miembro;
 import play.db.ebean.EbeanConfig;
 
